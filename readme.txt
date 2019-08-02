@@ -4,3 +4,4 @@ git is not bad.
 git is real good.
 git is git!
 learning github.
+creating a new branch is quick and simple.
